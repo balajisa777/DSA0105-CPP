@@ -1,7 +1,7 @@
 # Code and Debug 1
 
-**Name:** Lavanya K.  
-**Register Number:** 192565025  
+**Name:** Balaji S A  
+**Register Number:** 1921260146 
 **Subject:** Object Oriented Programming with C++
 
 ## Section A – Debugging Programs
