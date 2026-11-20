@@ -1,8 +1,8 @@
 CODE AND DEBUG 2 – UNIT II
 Functions and Classes & Objects in C++
 
-Name: Lavanya K.
-Register Number: 192565025
+Name: Balaji S A
+Register Number: 1921260146
 Subject: Object Oriented Programming with C++
 
 SECTION A – DEBUGGING PROGRAMS
