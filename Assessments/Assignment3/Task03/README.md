@@ -1,7 +1,7 @@
 # TASK 03 – DYNAMIC CONSTRUCTORS AND DESTRUCTORS
 
-**Name:** Lavanya K.  
-**Register Number:** 192565025  
+**Name:** Balaji s a
+**Register Number:** 1921260146 
 **Language:** C++  
 **Compiler:** G++  
 
